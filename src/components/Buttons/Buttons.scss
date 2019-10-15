@@ -1,0 +1,43 @@
+.operator-btn-yellow {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 229, 47, 1) 34%,
+    rgba(204, 140, 27, 1) 90%
+  );
+}
+
+.operator-btn-blue {
+  background: linear-gradient(
+    180deg,
+    rgba(107, 152, 254, 1) 23%,
+    rgba(134, 113, 254, 1) 58%,
+    rgba(100, 83, 255, 1) 90%
+  );
+}
+
+.operator-btn-green {
+  background: linear-gradient(
+    180deg,
+    rgba(44, 217, 46, 1) 34%,
+    rgba(18, 113, 31, 1) 90%
+  );
+}
+
+.operator-btn-red {
+  background: linear-gradient(
+    180deg,
+    rgba(222, 53, 53, 1) 27%,
+    rgba(131, 20, 15, 1) 64%,
+    rgba(203, 42, 42, 1) 90%
+  );
+}
+
+.operator-btn-yellow,
+.operator-btn-blue,
+.operator-btn-green,
+.operator-btn-red {
+  font-size: 25px !important;
+  color: white !important;
+  padding: 10px 50px !important;
+  font-family: "Passero One", cursive !important;
+}
